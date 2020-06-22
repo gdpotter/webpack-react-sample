@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "noImplicitAny": false,
+    "resolveJsonModule": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "target": "es6",
+    "lib": [
+      "es2015",
+      "es2017",
+      "es2019",
+      "dom"
+    ],
+    "removeComments": true,
+    "allowSyntheticDefaultImports": true,
+    "jsx": "preserve",
+    "allowJs": true,
+    "baseUrl": "./"
+  },
+  "exclude": [
+    "node_modules/*"
+  ],
+  "include": ["src", "src/custom.d.ts"]
+}
