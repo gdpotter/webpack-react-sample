@@ -1,6 +1,6 @@
 # Webpack React Sample
 
-This sample project goes along with the guide at: https://gdpotter.com/2020/06/18/react-webpack-s3-guide
+This sample project goes along with the guide at: https://gdpotter.com/2020/07/01/react-webpack-s3-guide/
  
 You can see it in action at: https://react-test.gdpotter.com. 
 
